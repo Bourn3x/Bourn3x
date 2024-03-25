@@ -10,11 +10,11 @@ Visit my [portfolio](https://julianchong.com/) 📂 to check out my **personal**
 
 ## 🖥️ Tech
 
-**Frontend Development:** `React.js` `Next.js` `SvelteKit` `Flutter`
+**Frontend Development:** `React.js` `Next.js` `SvelteKit` `Flutter` `TypeScript`
 
 **Frontend Styling:** `TailwindCSS` `Chakra-UI` `Boostrap` `Sass` `Framer-Motion`
 
-**Backend Development:** `Node.js` `Express.js` `Nest.js` `tRPC`
+**Backend Development:** `Node.js` `Express.js` `Nest.js` `tRPC` `TypeScript`
 
 **Database:**  `PostgreSQL` `MySQL` `Firebase`
 
