@@ -1,16 +1,25 @@
-### Hi there 👋
+<img src="https://media.tenor.com/YHKdlpTduMQAAAAi/im-free-cute.gif" alt="gif" width="100"/>
 
-<!--
-**Bourn3x/Bourn3x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Julian! 👋
 
-Here are some ideas to get you started:
+I am a full stack developer with 4+ years of experience 🚀.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My expertise include `React.js`, `Next.js`, `Node.js`, and `TypeScript`.
+
+Visit my [portfolio](https://julianchong.com/) 📂 to check out my **personal** projects.
+
+## 🖥️ Tech
+
+**Frontend Development:** `React.js` `Next.js` `SvelteKit` `Flutter`
+
+**Frontend Styling:** `TailwindCSS` `Chakra-UI` `Boostrap` `Sass` `Framer-Motion`
+
+**Backend Development:** `Node.js` `Express.js` `Nest.js` `tRPC`
+
+**Database:**  `PostgreSQL` `MySQL` `Firebase`
+
+**ORMs:**  `Prisma` `Objection.js / Knex.js` `typeORM`
+
+## 📫 Contact
+- Feel free to DM me on [LinkedIn](https://www.linkedin.com/in/julianchong-/)!
+- Or email me at julianchong10@gmail.com
