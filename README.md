@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Julian! 👋
 
-I am a full stack developer with 4+ years of experience 🚀.
+I am a full stack developer with 7+ years of experience 🚀.
 
 My expertise include `React.js`, `Next.js`, `Node.js`, and `TypeScript`.
 
@@ -14,9 +14,9 @@ Visit my [portfolio](https://julianchong.com/) 📂 to check out my **personal**
 
 **Frontend Styling:** `TailwindCSS` `Chakra-UI` `Boostrap` `Sass` `Framer-Motion`
 
-**Backend Development:** `Node.js` `Express.js` `Nest.js` `tRPC` `TypeScript`
+**Backend Development:** `Django` `Node.js` `Express.js` `Nest.js` `tRPC` `TypeScript`
 
-**Database:**  `PostgreSQL` `MySQL` `Firebase`
+**Database:**  `PostgreSQL` `MySQL` `SQLite` `Redis` `Firebase`
 
 **ORMs:**  `Prisma` `Objection.js / Knex.js` `typeORM`
 
